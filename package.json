@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "snowpack dev",
-    "build": "snowpack build"
+    "prod": "snowpack build"
   },
   "keywords": [],
   "author": "Darío Rivera",
