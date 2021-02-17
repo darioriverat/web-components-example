@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Darío Rivera",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@vanillawc/wc-bullet-chain": "^1.0.25"
+  }
 }
