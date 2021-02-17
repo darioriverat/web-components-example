@@ -4,12 +4,16 @@
   "description": "This is a web component usage example",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "snowpack dev",
+    "build": "snowpack build"
   },
   "keywords": [],
   "author": "Darío Rivera",
   "license": "MIT",
   "dependencies": {
     "@vanillawc/wc-bullet-chain": "^1.0.25"
+  },
+  "devDependencies": {
+    "snowpack": "^3.0.11"
   }
 }
