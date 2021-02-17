@@ -1,0 +1,12 @@
+{
+  "name": "web-components-example",
+  "version": "1.0.0",
+  "description": "This is a web component usage example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Darío Rivera",
+  "license": "MIT"
+}
