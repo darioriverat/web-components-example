@@ -1,5 +1,7 @@
 # :pushpin: Web Components usage example
 
+<img src="https://blog.pleets.org/img/articles/web-component-example.png" width="100%">
+
 This example shows you how to use a simple web component inside a static web page.
 
 # What is a Web Component :question:
